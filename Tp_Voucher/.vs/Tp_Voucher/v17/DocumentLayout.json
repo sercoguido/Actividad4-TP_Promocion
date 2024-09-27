@@ -7,16 +7,11 @@
       "RelativeMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|solutionrelative:tp_voucher\\voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|c:\\users\\guido\\desktop\\utn\\programacion iii\\actividad4-tp_promocion\\actividad4-tp_promocion\\tp_voucher\\tp_voucher\\clases\\voucherservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|solutionrelative:tp_voucher\\clases\\voucherservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|c:\\users\\guido\\desktop\\utn\\programacion iii\\actividad4-tp_promocion\\actividad4-tp_promocion\\tp_voucher\\tp_voucher\\clases\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|solutionrelative:tp_voucher\\clases\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\tp_voucher\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|solutionrelative:tp_voucher\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A428990-AA6E-4A99-82DC-5BCC506B7B1C}|..\\..\\..\\..\\..\\..\\source\\repos\\TP_Voucher\\Servicios\\Servicios.csproj|c:\\users\\guido\\source\\repos\\tp_voucher\\servicios\\vouchercbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B3B5AD3-576E-4013-89F7-00A9673E4C7B}|Tp_Voucher\\Tp_Voucher.csproj|C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\tp_voucher\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
@@ -30,33 +25,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "voucher.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Clases\\voucher.cs",
-              "RelativeDocumentMoniker": "Tp_Voucher\\Clases\\voucher.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Clases\\voucher.cs",
-              "RelativeToolTip": "Tp_Voucher\\Clases\\voucher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Title": "VoucherCBD.cs",
+              "DocumentMoniker": "C:\\Users\\Guido\\source\\repos\\TP_Voucher\\Servicios\\VoucherCBD.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\TP_Voucher\\Servicios\\VoucherCBD.cs",
+              "ToolTip": "C:\\Users\\Guido\\source\\repos\\TP_Voucher\\Servicios\\VoucherCBD.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\TP_Voucher\\Servicios\\VoucherCBD.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T04:30:48.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "voucherServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Clases\\voucherServicio.cs",
-              "RelativeDocumentMoniker": "Tp_Voucher\\Clases\\voucherServicio.cs",
-              "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Clases\\voucherServicio.cs",
-              "RelativeToolTip": "Tp_Voucher\\Clases\\voucherServicio.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T03:42:32.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T15:11:36.131Z"
             },
             {
               "$type": "Document",
@@ -66,14 +47,14 @@
               "RelativeDocumentMoniker": "Tp_Voucher\\Voucher.aspx.cs",
               "ToolTip": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Voucher.aspx.cs",
               "RelativeToolTip": "Tp_Voucher\\Voucher.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T01:24:09.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Site.Master",
               "RelativeDocumentMoniker": "Tp_Voucher\\Site.Master",
@@ -81,12 +62,11 @@
               "RelativeToolTip": "Tp_Voucher\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T01:21:28.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T01:21:28.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Voucher.aspx",
               "DocumentMoniker": "C:\\Users\\Guido\\Desktop\\UTN\\Programacion III\\Actividad4-TP_Promocion\\Actividad4-TP_Promocion\\Tp_Voucher\\Tp_Voucher\\Voucher.aspx",
               "RelativeDocumentMoniker": "Tp_Voucher\\Voucher.aspx",
@@ -94,8 +74,7 @@
               "RelativeToolTip": "Tp_Voucher\\Voucher.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-27T01:20:49.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T01:20:49.656Z"
             }
           ]
         }

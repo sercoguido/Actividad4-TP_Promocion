@@ -185,8 +185,6 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Clases\voucher.cs" />
-    <Compile Include="Clases\voucherServicio.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -247,6 +245,20 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\source\repos\TP_Voucher\Data-Management\Data-Management.csproj">
+      <Project>{4c2e0d66-dd7f-4b50-be2b-51489bfe1820}</Project>
+      <Name>Data-Management</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\source\repos\TP_Voucher\Dominio\Dominio.csproj">
+      <Project>{ccfde32c-1963-4022-bde2-fa4b13239232}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\source\repos\TP_Voucher\Servicios\Servicios.csproj">
+      <Project>{0a428990-aa6e-4a99-82dc-5bcc506b7b1c}</Project>
+      <Name>Servicios</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
