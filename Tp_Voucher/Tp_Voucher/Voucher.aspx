@@ -12,7 +12,8 @@
                   <asp:Button Class="btn btn-primary" ID="btnSiguiente" OnClick="btnSiguiente_Click" runat="server" Text="Siguiente"/>
                    <asp:Label ID="lbl1" runat="server" Text="Label"></asp:Label>
         </div>
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="true"></asp:GridView>
         <div class="col-3"></div>
-
+                <asp:GridView ID="gvVouchers" runat="server"></asp:GridView>
     </div>
 </asp:Content>
